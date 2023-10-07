@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and GCP
 - 📫 How to reach me: [Instagram](https://www.instagram.com/izurohmanq/)
 - 😄 Pronouns: Kasep/Ganteng
 
