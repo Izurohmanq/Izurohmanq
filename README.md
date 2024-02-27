@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+![profile](https://pixel-profile.vercel.app/api/github-stats?username=Izurohmanq&screen_effect=true&background=black)
+
